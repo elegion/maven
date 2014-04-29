@@ -36,3 +36,6 @@ build/**
 
 # Proguard
 proguard/**
+
+# Trash
+trash/**
