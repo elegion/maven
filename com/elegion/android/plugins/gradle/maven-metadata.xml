@@ -2,11 +2,11 @@
 <metadata>
   <groupId>com.elegion.android.plugins</groupId>
   <artifactId>gradle</artifactId>
-  <version>1.0.8</version>
+  <version>1.0.9</version>
   <versioning>
     <versions>
-      <version>1.0.8</version>
+      <version>1.0.9</version>
     </versions>
-    <lastUpdated>20140528135013</lastUpdated>
+    <lastUpdated>20140528143252</lastUpdated>
   </versioning>
 </metadata>
